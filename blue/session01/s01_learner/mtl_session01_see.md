@@ -109,17 +109,16 @@ Overall "_Modeling to Learn_" objectives include activities and competencies tha
 ### 6. Select a Team Lead.
  
 -  The role of the Team Lead is to:
-     - be the main point of contact between the team and *Modeling to Learn* co-facilitators;
-     - become familiar with *MTL* resources and help team members trouble-shoot - mainly Microsoft Teams (used for screen-sharing during meetings), mtl.how/data (the 
-         data user interface), mtl.how/sim (the simulation user interface); and
-     - provide leadership during *MTL* sessions, encouraging team participation in discussions and serving as computer simulation lead under co-facilitators' guidance.  
+1. Be the main point of contact between the team and *Modeling to Learn* co-facilitators;
+2. Become familiar with *MTL* resources and help team members trouble-shoot - mainly Microsoft Teams (used for screen-sharing during meetings), mtl.how/data (the data user interface), mtl.how/sim (the simulation user interface); and
+3. Provide leadership during *MTL* sessions, encouraging team participation in discussions and serving as computer simulation lead under co-facilitators' guidance.  
 
-  - Ideal characteristics of the Team Lead include:
-       - Having strong relationships with fellow team members;
-       - Being organized;
-       - Having basic computer knowledge (some Excel experience is good);
-       - Attention to detail; and
-       - Commitment to process improvement and the use of data to improve care.
+- Ideal characteristics of the Team Lead include:
+   - Having strong relationships with fellow team members;
+   - Being organized;
+   - Having basic computer knowledge (some Excel experience is good);
+   - Attention to detail; and
+   - Commitment to process improvement and the use of data to improve care.
 
 ## Done and Do (15 minutes)
 
